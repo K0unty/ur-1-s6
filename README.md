@@ -1,3 +1,5 @@
+<img src="./utilz/a.jpg" width=200%>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +12,5 @@ Currently, two official plugins are available:
 # Purpose
 
 > Doing UR1 work , pushed to ve
+
+> This is a continuation of [`ur-1-s3-2`](https://github.com/K0unty/ur-1-s3-2) for starting work s6
